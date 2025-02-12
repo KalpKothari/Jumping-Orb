@@ -5,29 +5,28 @@
 ## Key Features:-
 
 ### Gameplay Mechanics
-**Simple Controls**: The orb jumps when the player presses the spacebar.
+-**Simple Controls**: The orb jumps when the player presses the spacebar.
 
-**Gravity & Physics**: The orb is affected by gravity, making the game feel smooth and natural.
+-**Gravity & Physics**: The orb is affected by gravity, making the game feel smooth and natural.
 
-**Obstacle Generation**:Pipes serve as obstacles that demand accurate timing to pass through their gaps successfully
+-**Obstacle Generation**:Pipes serve as obstacles that demand accurate timing to pass through their gaps successfully
 
 ### Power-Ups & Special Features
-**Shield Power-Up**: Collecting a shield provides temporary immunity against obstacles.
+-**Shield Power-Up**: Collecting a shield provides temporary immunity against obstacles.
 
-**Day & Night Mode**: After reaching a certain score, the game switches to night mode, increasing difficulty with faster obstacles.
+-**Day & Night Mode**: After reaching a certain score, the game switches to night mode, increasing difficulty with faster obstacles.
 
-**Cloud Animation**: Dynamic clouds enhance the visual experience.
+-**Cloud Animation**: Dynamic clouds enhance the visual experience.
 
 ### User Experience Enhancements
-**Score Tracking**: The player’s score increases with each successfully passed obstacle.
+-**Score Tracking**: The player’s score increases with each successfully passed obstacle.
 
-**Restart Mechanism**: Pressing 'R' allows instant game restart upon losing.
+-**Restart Mechanism**: Pressing 'R' allows instant game restart upon losing.
 
-**Adaptive Difficulty**: The game gets progressively harder, increasing player engagement.
+-**Adaptive Difficulty**: The game gets progressively harder, increasing player engagement.
 
 ### Tech Stack:
 Language: **Python**
 
 Library: **Tkinter (for GUI and animations)**
 
-This project demonstrates game development principles and UI design
