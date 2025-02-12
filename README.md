@@ -14,7 +14,7 @@
 ### Power-Ups & Special Features
 - **Shield Power-Up**: Collecting a shield provides temporary immunity against obstacles.
 
-- **Day & Night Mode**: After reaching a certain score, the game switches to night mode, increasing difficulty with faster obstacles.
+- **Day & Night Mode**: After reaching a certain score, the game switches to night mode, increasing difficulty with faster encounter of obstacle
 
 - **Cloud Animation**: Dynamic clouds enhance the visual experience.
 
