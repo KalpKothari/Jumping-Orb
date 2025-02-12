@@ -25,7 +25,7 @@
 
 - **Adaptive Difficulty**: The game gets progressively harder, increasing player engagement.
 
-  ![Image](https://github.com/user-attachments/assets/14274409-885b-452d-bc42-f831168b8ef7)   
+  ![Image](https://github.com/user-attachments/assets/f7f52c3c-e504-4fdb-9ab7-2618a33293bd)
 
 ### Tech Stack:
 Language: **Python**
