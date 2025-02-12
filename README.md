@@ -2,7 +2,7 @@
 
 **Jumping Orb** is an engaging arcade game built using Python's Tkinter library. The player controls a jumping orb that must navigate through obstacles while avoiding collisions. The game features day and night modes, a shield power-up for temporary immunity, and dynamically moving clouds for an immersive experience.
 
-## Key Features:-
+### Key Features:-
 
 ### Gameplay Mechanics
 - **Simple Controls**: The orb jumps when the player presses the spacebar.
@@ -27,7 +27,7 @@
 
 
 
-## Tech Stack:
+### Tech Stack:
 Language: **Python**
 
 Library: **Tkinter (for GUI and animations)**
