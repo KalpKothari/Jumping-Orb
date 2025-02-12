@@ -26,7 +26,8 @@
 - **Adaptive Difficulty**: The game gets progressively harder, increasing player engagement.
 
 
-### Tech Stack:
+
+## Tech Stack:
 Language: **Python**
 
 Library: **Tkinter (for GUI and animations)**
